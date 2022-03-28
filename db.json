@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "Name":"Cooler",
+      "Price":"1000",
+      "category":"Electronics"
+    },
+    {
+      "Name":"Shirt",
+      "Price":"100",
+      "category":"Clothing"
+    }, 
+    {
+      "Name":"Mobile",
+      "Price":"100",
+      "category":"Electronics"
+    },
+    {
+      "Name":"Penciul",
+      "Price":"10",
+      "category":"Stationary"
+    }, 
+    {
+      "Name":"Berger",
+      "Price":"100",
+      "category":"Food"
+    },
+    {
+      "Name":"Book",
+      "Price":"100",
+      "category":"Stationary"
+    },
+    {
+      "Name":"Pen",
+      "Price":"100",
+      "category":"Stationary"
+    },
+    {
+      "Name":"Scale",
+      "Price":"10",
+      "category":"Stationary"
+    },
+    {
+      "Name":"Sketch",
+      "Price":"105",
+      "category":"Stationary"
+    }
+  ]
+   
+}
